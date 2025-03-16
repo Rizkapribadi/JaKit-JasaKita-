@@ -15,4 +15,9 @@ Aplikasi e-commerce sederhana yang dibuat dengan framework laravel
 ![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/05caa668471b0f8539c100fbc526d733abaac923/8.JPG)
 
 ### SImpan Nanti
-![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/0ee1d085ef9142528e2fa385361f38b68f6e8b3e/Fitur%20Simpan%20Nanti.JPG)s
+![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/0ee1d085ef9142528e2fa385361f38b68f6e8b3e/Fitur%20Simpan%20Nanti.JPG)
+
+### Informasi Penjualan
+![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/0428aca82018fc2251db0e6e923cde21167883f8/informasi%20Penjualan%20Jasa.JPG)
+
+### fitur lain dapat dilihat langsung pada project, seperti pemesanan, pembayaran dan comment 
