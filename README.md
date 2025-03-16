@@ -20,4 +20,4 @@ Aplikasi e-commerce sederhana yang dibuat dengan framework laravel
 ### Informasi Penjualan
 ![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/0428aca82018fc2251db0e6e923cde21167883f8/informasi%20Penjualan%20Jasa.JPG)
 
-### fitur lain dapat dilihat langsung pada project, seperti pemesanan, pembayaran dan comment 
+Fitur lain dapat dilihat langsung pada project, seperti pemesanan, pembayaran dan comment 
