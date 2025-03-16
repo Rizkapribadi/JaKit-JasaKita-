@@ -2,7 +2,8 @@
 ## Jakit
 
 Aplikasi e-commerce sederhana yang dibuat dengan framework laravel
-####Berikut ini fitur-fitur yang ada pada aplikasi:
+
+#### Berikut ini fitur-fitur yang ada pada aplikasi:
 
 ### View Produk
 ![image alt](https://github.com/Rizkapribadi/JaKit-JasaKita-/blob/0d8ff7f0740aae1104f9393e8c1dac71f137869b/Fitur%20Review.JPG)
